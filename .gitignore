@@ -1,0 +1,4 @@
+.obsidian*/**
+**/*.canvas
+.DS_Store
+
